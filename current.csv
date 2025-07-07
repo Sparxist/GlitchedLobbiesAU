@@ -1,12 +1,13 @@
 Code,Timestamp,Confirmation,Person
 AHXG,1751833830,Confirm,Dropper
 ANXG,1751833830,Discover,Dropper
+AOQG,1751909250,Discover,Dropper
 ASAF,1751833830,Confirm,Dropper
-ATQG,???,Discover,Baguette
+ATQG,1751909250,Invalidate,Dropper
 AWQG,1751833830,Invalidate,Dropper
 AYWG,1750845090,Invalidate,Null
 AZRG,1751753070,Confirm,ImpHunterッ5150
-BDAF,???,Discover,Baguette
+BDAF,1751909250,Invalidate,Dropper
 BEQG,1751833830,Confirm,Dropper
 BFQG,1751833830,Discover,Dropper
 BPAF,???,Discover,Baguette
@@ -22,6 +23,7 @@ DXRG,1751833830,Confirm,Dropper
 ENQG,1751404410,Confirm,Dropper
 ENWG,1751641650,Discover,Baguette
 EVMF,1751404410,Confirm,Dropper
+FDWG,1751909250,Discover,Dropper
 FXAF,1750849200,Discover,Dante
 GGWG,1751404410,Confirm,Dropper
 GHXG,1751833830,Confirm,Dropper
@@ -31,6 +33,7 @@ GVXG,1751833830,Discover,Dropper
 HIAF,1751641650,Discover,Baguette
 HNQG,1751480010,Discover,Dropper
 HNXG,1751124270,Confirm,Dropper
+IBMF,1751909250,Discover,Dropper
 IQRG,1751484150,Invalidate,Baguette
 IWWG,1751833830,Invalidate,Dropper
 JCRG,1750849200,Confirm,Dante
@@ -43,7 +46,7 @@ LJRW,1751641650,Discover,Baguette
 LRAF,1751833830,Confirm,Dropper
 LXAF,1751833830,Discover,Dropper
 MCAF,1751833830,Discover,Dropper
-MUAF,1750849200,Confirm,Dante
+MUAF,1751909250,Invalidate,Dropper
 NBXG,1751671470,Invalidate,Space
 NYAF,1751833830,Confirm,Dropper
 NZQG,1751833830,Discover,Dropper
@@ -57,6 +60,7 @@ RAQG,1751394150,Confirm,Dropper
 RBQG,1751833830,Confirm,Dropper
 RTRG,1751833830,Confirm,Dropper
 SNAF,1751833830,Confirm,Dropper
+SURG,1751909250,Discover,Dropper
 TURG,1751833830,Discover,Dropper
 TWRG,1751833830,Confirm,Dropper
 UAXG,1751671470,Invalidate,Space
@@ -69,6 +73,7 @@ VGWG,1750849200,Discover,Dante
 VNAF,1750831980,Invalidate,lilC
 WQQG,1751404410,Confirm,Dropper
 XFAF,1751833830,Confirm,Dropper
+XMWG,1751909250,Discover,Dropper
 XNAF,1751389950,Confirm,Dropper
 XNWG,1751404410,Confirm,Dropper
 XVQG,1751833830,Discover,Dropper
@@ -76,6 +81,7 @@ YAQG,1751833830,Confirm,Dropper
 YDWG,1751833830,Confirm,Dropper
 YEWG,1751394270,Discover,Dropper
 YJXG,1751833830,Confirm,Dropper
+YPRG,1751909250,Discover,Dropper
 YVRG,1751833830,Confirm,Dropper
 YYQG,1751833830,Confirm,Dropper
 YZAF,1751233290,Discover,ඞ

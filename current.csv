@@ -5,6 +5,7 @@ ANXG,1753956767,Unreliable,
 AOQG,1753959530,Invalidate,Dropper
 ASAF,1753959530,Invalidate,Dropper
 ATQG,1751909250,Invalidate,Dropper
+ATWG,1754066730,Discover,Abnormal Heartbeats
 AWQG,1753962270,Invalidate,Dropper
 AYWG,1750845090,Invalidate,Null
 AZRG,1753959530,Invalidate,Dropper
@@ -42,7 +43,7 @@ FQRG,1753956767,Unreliable,
 FXAF,1753956767,Unreliable,
 GFXG,1753959530,Invalidate,Dropper
 GGWG,1753984830,Invalidate,Dropper
-GHXG,1753962270,Invalidate,Dropper
+GHXG,1754066730,Discover,Abnormal Heartbeats
 GNWG,1753956767,Unreliable,
 GOXG,1753984830,Invalidate,Dropper
 GVMF,1753984830,Invalidate,Dropper
@@ -68,7 +69,7 @@ JGQG,1753962270,Invalidate,Dropper
 JIXG,1753956767,Unreliable,
 JOXG,1753956767,Unreliable,
 JWQG,1753959530,Invalidate,Dropper
-JXQG,1753959530,Invalidate,Dropper
+JXQG,1754066730,Discover,Abnormal Heartbeats
 JZQG,1753962270,Invalidate,Dropper
 KAAF,1753984830,Invalidate,Dropper
 KFXG,1753956767,Unreliable,
@@ -76,6 +77,8 @@ KHQG,1753959530,Invalidate,Dropper
 KJRG,1753956767,Unreliable,
 KNWG,1753959530,Invalidate,Baguette
 KRWG,1753959530,Invalidate,Dropper
+KWWG,1754066730,Discover,Abnormal Heartbeats
+LBAF,1754066730,Discover,Abnormal Heartbeats
 LCWG,1753959530,Invalidate,Dropper
 LFRG,1753962270,Invalidate,Dropper
 LJRW,1753984830,Invalidate,Baguette
@@ -91,8 +94,9 @@ MPQG,1753984830,Invalidate,Dropper
 MQXG,1753959530,Invalidate,Dropper
 MUAF,1751909250,Invalidate,Dropper
 MUQG,1753959530,Invalidate,Dropper
-MUWG,1753959530,Invalidate,Dropper
+MUWG,1754066730,Discover,Abnormal Heartbeats
 NBXG,1751671470,Invalidate,Space
+NEWG,1754066730,Discover,Abnormal Heartbeats
 NHXG,1753959530,Invalidate,Dropper
 NKAF,1753984830,Invalidate,Dropper
 NLXG,1753959530,Invalidate,Dropper
@@ -114,6 +118,7 @@ QCQG,1753956767,Unreliable,
 QIQG,1753959530,Invalidate,Dropper
 QMMF,1753959530,Invalidate,Dropper
 QOXG,1753959530,Invalidate,Dropper
+QUAF,1754066730,Discover,Abnormal Heartbeats
 QXAF,1753956767,Unreliable,
 QYAF,1753959530,Invalidate,Dropper
 RAQG,1753984830,Invalidate,Dropper
@@ -128,9 +133,10 @@ SQWG,1753956767,Unreliable,
 SRAF,1753959530,Invalidate,Dropper
 SURG,1753956767,Unreliable,
 SVWG,1753959530,Invalidate,Dropper
+SZAF,1754066730,Discover,Dropper
 TAXG,1753959530,Invalidate,Dropper
 TDXG,1753959530,Invalidate,Dropper
-TURG,1753959530,Invalidate,Dropper
+TURG,1754066730,Discover,Baguette
 TWRG,1753956767,Unreliable,
 UAXG,1753956767,Unreliable,
 UBQG,1753959530,Invalidate,Dropper
